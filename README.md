@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm M-Aman Siddiqui</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPpylg73Y-nfum_ERXJ-MI_YFvJqebOJix67wbHfUr_Q&s" align="right"
+<img src="https://user-images.githubusercontent.com/105595540/212469547-27e4c290-983d-4544-8266-60efd135ae41.gif" align="right"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-amansiddiqui&label=Profile%20views&color=0e75b6&style=flat" alt="m-amansiddiqui" /> </p>
 
-- 🌱 I’m currently learning **WEB & APP DEVELOPMENT**
+- 🌱 I’m currently learning **Web & App Development**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,BOOTSTRAP**
+- 💬 Ask me about **HTML, CSS, JS, BOOTSTRAP**
 
 - 📫 How to reach me **m.amansiddiqui202@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aman siddiqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman siddiqui" height="30" width="40" /></a>
-<a href="https://fb.com/aman siddiqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aman siddiqui" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Aman Siddiqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman siddiqui" height="30" width="40" /></a>
+<a href="https://fb.com/Aman Siddiqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aman siddiqui" height="30" width="40" /></a>
 <a href="https://instagram.com/amansiddiqui6225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amansiddiqui6225" height="30" width="40" /></a>
 </p>
 
