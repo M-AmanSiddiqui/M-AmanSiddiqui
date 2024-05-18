@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm M-Aman Siddiqui</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img src="https://https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif" align="right"
+<img src="https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif" align="right"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-amansiddiqui&label=Profile%20views&color=0e75b6&style=flat" alt="m-amansiddiqui" /> </p>
 
