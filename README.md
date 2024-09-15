@@ -15,8 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/
-aman-siddiqui-a1a201328
+<a href="www.linkedin.com/in/aman-siddiqui-a1a201328
 " target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3kkGVaMajsSBUr5Qq6nzpO14hybBkcfujqQ&s" alt="aman siddiqui" height="30" width="40" /></a>
 
 </p>
