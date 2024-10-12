@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-amansiddiqui&label=Profile%20views&color=0e75b6&style=flat" alt="m-amansiddiqui" /> </p>
 
-- 🌱 I’m currently learning **Web & App Development**
+- 🔭 I'm currently working on **React JS , Next JS Projects**
 
-- 👯 I’m looking to collaborate on **Web Development Projects**
-
-- 💬 Ask me about **HTML, CSS, JS, BOOTSTRAP, JavaScript, Firebase, React**
+- 🌱 I’m currently learning **Back End Development**
+ 
+- 💬 Ask me about **HTML, CSS, JS, BOOTSTRAP, JavaScript, Firebase, ReactJS, NextJS**
 
 - 📫 How to reach me **m.amansiddiqui202@gmail.com**
 
@@ -21,5 +21,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align='left'>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,git,github,tailwind,firebase,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,git,github,vercel,tailwind,firebase,react,next" />
 </p>
