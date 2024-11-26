@@ -18,10 +18,6 @@
 <a href="https://www.linkedin.com/in/aman-siddiqui-a1a201328/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3kkGVaMajsSBUr5Qq6nzpO14hybBkcfujqQ&s" alt="aman siddiqui" height="30" width="40" /></a>
 
 </p>
-
-<h2 align="left">Languages and Tools:</h2>
-
 <p align='left'>
-  <img src="https://skillicons.dev/icons?i=react,mui,next,firebase,js,ts,mongodb,postman,git,github,vercel,netlify,bootstrap,tailwind,css,html" />
-  <img src="https://skillicons.dev/icons?i=react,next,firebase,js,ts,mongodb,postman,git,github,vercel,netlify,mui,bootstrap,tailwind,css,html" />
+  <img src="https://skillicons.dev/icons?i=react,next,firebase,js,ts,mongodb,git,github,vercel,netlify,mui,bootstrap,tailwind,css,html" />
 </p>
