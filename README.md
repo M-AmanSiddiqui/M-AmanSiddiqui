@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-amansiddiqui&label=Profile%20views&color=0e75b6&style=flat" alt="m-amansiddiqui" /> </p>
 
-- 🔭 I'm currently working on **React JS , Next JS Projects**
+- 🔭 I'm currently working on **React Native*
 
-- 🌱 I’m currently learning **Back End Development**
+- 🌱 I’m currently learning **App Development**
  
 - 💬 Ask me about **HTML, CSS, JS, BOOTSTRAP, JavaScript, Firebase, ReactJS, NextJS**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/aman-siddiqui-a1a201328/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3kkGVaMajsSBUr5Qq6nzpO14hybBkcfujqQ&s" alt="aman siddiqui" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aman-siddiqui-a1a201328/" target="blank"><img align="center" src="https://img.freepik.com/premium-vector/linkedin-logo_578229-227.jpg" alt="aman siddiqui" height="30" width="40" /></a>
 
 </p>
 <h2 align="left">Languages and Tools:</h2>
