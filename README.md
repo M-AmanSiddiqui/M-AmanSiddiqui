@@ -19,7 +19,9 @@
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
+
 <p align='left'>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,git,github,vercel,tailwind,firebase,react,next" />
+  <img src="https://skillicons.dev/icons?i=react,mui,next,firebase,js,ts,mongodb,postman,git,github,vercel,netlify,bootstrap,tailwind,css,html" />
+  <img src="https://skillicons.dev/icons?i=react,next,firebase,js,ts,mongodb,postman,git,github,vercel,netlify,mui,bootstrap,tailwind,css,html" />
 </p>
