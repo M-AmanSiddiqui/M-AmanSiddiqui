@@ -1,12 +1,13 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=M-AmanSiddiqui&label=Profile%20views&color=0e75b6&style=flat" alt="M-AmanSiddiqui" />
-</p>
+
 
 <p align="center">
-  <img src="https://github.com/M-AmanSiddiqui/M-AmanSiddiqui/assets/154512222/9284a203-08a0-44de-b36b-d2aba7f24377" alt="aman banner"/>
+  <img src="https://raw.githubusercontent.com/M-AmanSiddiqui/M-AmanSiddiqui/main/mybanner.gif" alt="aman banner"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm M-Aman Siddiqui</h1>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=M-AmanSiddiqui&label=Profile%20views&color=0e75b6&style=flat" alt="M-AmanSiddiqui" />
+</p><h1 align="center">Hi 👋, I'm M-Aman Siddiqui</h1>
 <h3 align="center">🚀 Turning ideas into digital reality — I’m a Full-Stack Developer passionate about building innovative, user-centric applications with modern technologies</h3>
  <h3 align="center">
  
