@@ -24,13 +24,9 @@
 
 <h2 align="left">About Me:</h2>
 
-- 🔭 I'm currently working on **Full Stack Projects**
-
-- 🌱 I’m currently learning **AI and Data Science**
+- 🔭 I'm currently working on **Full Stack Projects , AI and Data Science Engineer**
  
 - 👨‍💻 My Portfolio Website [My Portfolio Website](https://amansiddiqui.vercel.app/)
-
-- 💬 Ask me about **JavaScript, TypeScript, Python, MongoDB, ReactJS, NextJS, NodeJS, ExpressJS, Firebase**
 
 - 📫 How to reach me **m.amansiddiqui2024@gmail.com**
 
