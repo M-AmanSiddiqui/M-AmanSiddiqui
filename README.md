@@ -24,7 +24,7 @@
 
 <h2 align="left">About Me:</h2>
 
-- 🔭 I'm currently working on **Full Stack Projects , AI and Data Science Engineer**
+- 🔭 I'm currently working on **Full Stack Projects , AI and Data Science**
  
 - 👨‍💻 My Portfolio Website [My Portfolio Website](https://amansiddiqui.vercel.app/)
 
